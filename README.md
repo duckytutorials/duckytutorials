@@ -3,14 +3,11 @@ Hi i am duckey,
 
 
 
-
-
 these are my stats!
 
 
 
 ![Duckeys Stats](https://github-readme-stats.vercel.app/api?username=duckytutorials&show_icons=true&theme=dark)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckytutorials&langs_count=8&theme=dark)](https://dashboard.nova-bot.repl.co)
 
