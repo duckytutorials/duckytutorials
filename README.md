@@ -1,3 +1,7 @@
 Hi i am duckey,
 
-[![This is my stats](https://github-readme-stats.vercel.app/api?username=duckytutorials)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duckytutorials&show_icons=true&theme=dark)
+
+I am a Aoi.js Discord bot developer you have the link to my bot [right here](https://dashboard.nova-bot.repl.co)
+i have knowledge in: javascript,html,css and c++
+i have many websites in replit i don't have a domain
