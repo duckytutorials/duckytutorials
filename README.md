@@ -1,4 +1,10 @@
 Hi i am duckey,
+
+
+
+
+
+
 these are my stats!
 
 
