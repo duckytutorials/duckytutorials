@@ -7,5 +7,6 @@ i have knowledge in: javascript,html,css and c++
 i have many websites in replit i don't have a domain
 
 my friends:
-[SnipedProx Aka lexxy](https://github.com/Snipedprox)
-[Dragon royal](https://github.com/dragonRoyal)
+[SnipedProx Aka lexxy](https://github.com/Snipedprox),
+[Dragon royal](https://github.com/dragonRoyal),
+[square](https://dashboard.nova-bot.repl.co)
