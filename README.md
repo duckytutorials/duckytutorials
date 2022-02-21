@@ -3,7 +3,7 @@ i am the owner of the discord bot Nova
 
 contect me: duckey | Nova dev#3049
 
-invite my bot: [link here](https://dashboard-nova.tk)
+invite my bot: [link here](https://dashboard.nova-bot.tk)
 
 
 
