@@ -17,7 +17,7 @@ these are my stats!
 
 
 I am a Aoi.js Discord bot developer you have the link to my bot [right here](https://dashboard.nova-bot.tk)
-i have knowledge in: javascript,html,css and c++
+i have knowledge in: javascript,html,css
 i have many websites in replit i have a domain
 
 my friends:
