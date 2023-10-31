@@ -1,8 +1,7 @@
 # 💫 About Me:
 Hello I’m a FullStack Developer,
 i am currently working for cloudflare;
-My current job at cloudflare is a junior enginner and offsite system administrator 
-for the burmese datacenters.
+My current job at i am so fucking jobless
 
 
 # 💻 Tech Stack:
