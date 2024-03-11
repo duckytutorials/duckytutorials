@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hello I’m a FullStack Developer,
-i am currently working for cloudflare;
+~~i am currently working for cloudflare;~~
+that was a joke, ^ 
 My current job at i am so fucking jobless
 
 
